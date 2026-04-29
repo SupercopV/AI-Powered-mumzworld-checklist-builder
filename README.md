@@ -221,3 +221,4 @@ Open `http://localhost:5173`.
 - The Groq API key is stored in browser local storage for prototype testing.
 - The backend does not persist the API key.
 - No live Mumzworld catalog data is used in this prototype.
+
