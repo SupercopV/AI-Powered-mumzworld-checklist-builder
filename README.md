@@ -1,4 +1,4 @@
-# Mumzworld AI Intern Submission
+# Mumzworld AI Checklist Builder
 
 **Track:** B
 
@@ -8,8 +8,8 @@ I built **Mumzworld Checklist Builder**, an AI-powered planning assistant for a 
 
 ## Prototype Access
 
-- **Live prototype URL or Loom of it working:** `[INSERT LINK]`
-- **3-minute walkthrough Loom:** `[INSERT LOOM LINK]`
+- **Live prototype URL or Loom of it working:** `https://www.loom.com/share/25d45a9ad81d48a9a0dbca4075abbf53`
+- **3-minute walkthrough Loom:** `https://www.loom.com/share/25d45a9ad81d48a9a0dbca4075abbf53`
 - **Code/project folder:** `C:\Users\lenovo\Documents\Mumzworld`
 
 ## Discovery
@@ -22,7 +22,7 @@ I built **Mumzworld Checklist Builder**, an AI-powered planning assistant for a 
 
 ### How I Shopped Mumzworld
 
-I approached Mumzworld as Aisha rather than as a general browser. The goal was not ìfind a strollerî or ìbuy diapers.î The goal was much fuzzier: build confidence around an entire shopping plan.
+I approached Mumzworld as Aisha rather than as a general browser. The goal was not ‚Äúfind a stroller‚Äù or ‚Äúbuy diapers.‚Äù The goal was much fuzzier: build confidence around an entire shopping plan.
 
 That made the experience feel different from a standard e-commerce task. I was not mainly choosing between products. I was trying to answer questions like:
 
@@ -40,7 +40,7 @@ The catalog can help once a mom knows what she wants. But a first-time mom often
 
 - decision fatigue from too many categories and products
 - fear of buying the wrong things or missing essentials
-- pressure to overspend ìjust in caseî
+- pressure to overspend ‚Äújust in case‚Äù
 
 ### Other Problems I Considered
 
@@ -53,9 +53,9 @@ I considered a few adjacent issues:
 
 ### Why I Picked This Problem
 
-I chose planning uncertainty over the others because it sits earlier in the funnel and influences everything after it. If Mumzworld helps a first-time mom answer ìwhat should I buy for my situation?î, then navigation, product discovery, and conversion all become easier.
+I chose planning uncertainty over the others because it sits earlier in the funnel and influences everything after it. If Mumzworld helps a first-time mom answer ‚Äúwhat should I buy for my situation?‚Äù, then navigation, product discovery, and conversion all become easier.
 
-This felt more high-leverage than a local UX fix because it addresses the userís mental model, not just an interface surface.
+This felt more high-leverage than a local UX fix because it addresses the user‚Äôs mental model, not just an interface surface.
 
 ## Why AI
 
@@ -72,7 +72,7 @@ This is where AI helps:
 
 Why not just a button or static checklist?
 
-Because a static checklist is too generic for the decision being made. If a simple UI change could answer ìwhat should I buy, in what priority, for my exact situation?î, then AI would be unnecessary. In this case, the variability of the user need is the reason AI is justified.
+Because a static checklist is too generic for the decision being made. If a simple UI change could answer ‚Äúwhat should I buy, in what priority, for my exact situation?‚Äù, then AI would be unnecessary. In this case, the variability of the user need is the reason AI is justified.
 
 ## Show Your Work
 
@@ -116,7 +116,7 @@ Because a static checklist is too generic for the decision being made. If a simp
   **Learned:** the submission needs raw thinking and process evidence, not just a working app.
 
 - I first relied on a frontend-only version that called a model API directly.  
-  **Learned:** that is not a credible ìrealî prototype because it lacks a proper backend boundary.
+  **Learned:** that is not a credible ‚Äúreal‚Äù prototype because it lacks a proper backend boundary.
 
 - I reused a workspace that originally contained a different demo app.  
   **Learned:** repurposing saved time, but it created naming/path confusion that had to be cleaned up.
